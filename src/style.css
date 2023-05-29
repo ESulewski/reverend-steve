@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background: radial-gradient(circle at 10% 20%, rgb(255, 200, 124) 0%, rgb(252, 251, 121) 90%);
+}
+h1{
+    margin-bottom: 0;
+    color: #680747;
+}
+
+.ordained-minister, p{
+    font-size: 30px;
+    color: #680747;
+}
+.card{
+    font-size: 15px;
+    color: #680747;
+}
+.collar{
+    font-size: 10px;
+    color: #680747;
+}
+.steve-chewy{
+    max-height: 200px;
+}
