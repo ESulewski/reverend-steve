@@ -11,14 +11,13 @@ h1{
     margin-bottom: 0;
     color: #680747;
 }
-
-.ordained-minister {
-    font-size: 30px;
+p {
+    font-size: 20px;
     color: #680747;
 }
 
-p {
-    font-size: 20px;
+.ordained-minister {
+    font-size: 30px;
     color: #680747;
 }
 .collar{
@@ -30,3 +29,12 @@ p {
     text-align: center;
 }
 
+.body{
+    font-size: 20px;
+    color: #680747;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+.text{
+    border: 2px solid white;
+}
