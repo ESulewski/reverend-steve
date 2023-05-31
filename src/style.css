@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 
-h1{
+h1, h2{
     margin-bottom: 0;
     color: #680747;
 }
@@ -37,4 +37,25 @@ p {
 }
 .text{
     border: 2px solid white;
+}
+.coming-in{
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+.container{
+    justify-content: space-evenly;
+    color: #680747;
+    padding: 20px;
+    text-align: center;
+}
+.about{
+    text-align: right;
+}
+.why{
+    text-align: left;
+}
+.heading{
+    font-weight: bolder;
+    font-size: 30px;
 }
