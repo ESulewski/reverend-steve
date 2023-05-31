@@ -78,11 +78,20 @@ li{
 }
 .standard{
     text-align: left;
-    transform: translate(100px, 0px);
 }
 .basic{
-    text-align: right;
+    text-align: center;
+    display: center;
+    transform: translate(70px, 0px);
+}
+.quick{
+    transform: translate(0px, 70px);
 }
 .alter{
     text-align: center;
+    transform: translate(22px, 18px);
+}
+.neck{
+    justify-content: space-evenly;
+    padding: 20px;
 }
