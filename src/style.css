@@ -11,9 +11,18 @@ h1, h2{
     margin-bottom: 0;
     color: #680747;
 }
-p {
+p, ul{
     font-size: 20px;
     color: #680747;
+}
+ul{
+    padding-left: 0;
+}
+li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
 }
 
 .ordained-minister {
@@ -58,6 +67,7 @@ p {
 .heading{
     font-weight: bolder;
     font-size: 30px;
+    color: #680747;
 }
 .ever-after{
     font-size: 20px;
@@ -65,4 +75,14 @@ p {
     text-align: center;
     display: block;
     margin: 0 auto;
+}
+.standard{
+    text-align: left;
+    transform: translate(100px, 0px);
+}
+.basic{
+    text-align: right;
+}
+.alter{
+    text-align: center;
 }
