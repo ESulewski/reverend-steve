@@ -24,7 +24,6 @@ li{
     padding: 0;
     
 }
-
 .ordained-minister {
     font-size: 30px;
     color: #680747;
@@ -93,5 +92,8 @@ li{
 }
 .neck{
     justify-content: space-evenly;
+    padding: 20px;
+}
+.name, .email, .wedding, .button{
     padding: 20px;
 }
