@@ -50,23 +50,16 @@ footer{
 }
 .text{
     border: 2px solid white;
+    border-radius: 10px;
+    justify-content: space-evenly;
+    color: #680747;
+
 }
 .coming-in{
     object-fit: cover;
     display: block;
     margin: 0 auto;
-}
-.container{
-    justify-content: space-evenly;
-    color: #680747;
-    padding: 20px;
-    text-align: center;
-}
-.about{
-    text-align: right;
-}
-.why{
-    text-align: left;
+    padding: 10px;
 }
 .heading{
     font-weight: bolder;
