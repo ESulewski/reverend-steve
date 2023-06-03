@@ -27,7 +27,7 @@ li{
 footer{
     font-size: 15px;
     color:#680747;
-    text-align: right;
+    text-align: center;
 }
 .ordained-minister {
     font-size: 30px;
@@ -60,6 +60,13 @@ footer{
     display: block;
     margin: 0 auto;
     padding: 10px;
+}
+.about{
+    margin: 0 auto;
+    display: flex;
+    padding: 0;
+    max-width: 85%;
+        max-height: 85%;
 }
 .heading{
     font-weight: bolder;
